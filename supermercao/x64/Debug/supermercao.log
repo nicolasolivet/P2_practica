@@ -1,0 +1,7 @@
+﻿  ArchProductos.cpp
+D:\flacorandom\Desktop\UTN\segundo_cuatri\programacion2\practica\supermercao\ArchProductos.cpp(94,7): warning C4101: 'result': unreferenced local variable
+  Producto.cpp
+  ServicioProducto.cpp
+  supermercao.cpp
+  Generating Code...
+  supermercao.vcxproj -> D:\flacorandom\Desktop\UTN\segundo_cuatri\programacion2\practica\x64\Debug\supermercao.exe
